@@ -1,0 +1,348 @@
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.AddFiles.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.BackUp.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.FTPSetting.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.GeneralSetting.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_20181128_2 진짜 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\최종본\CS_2018113p_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\CS_20181130_FTP추가\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeonghoon\Desktop\CS_20181201_source (2) (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.AddFiles.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.BackUp.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.FTPSetting.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.Forms.GeneralSetting.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\MainFormRichTextBox.RichTextBoxForm.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\AdvancedNotepad_CSharp.RichTextBoxZ.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전 - 복사본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,80 @@
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C# Editor\CSHARP_RichTextBoxEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.dll
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.FontCombobox.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\System.Windows.Forms.CustomTrackBar.resources
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RichTextBoxForm.resources
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jkh96\Desktop\cs\C# Editor\CS_20181114\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

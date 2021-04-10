@@ -1,0 +1,61 @@
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csprojAssemblyReference.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.GenerateResource.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.CoreCompileInputs.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csprojAssemblyReference.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.FindDialog.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.GenerateResource.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.CoreCompileInputs.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csprojAssemblyReference.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.FindDialog.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.GenerateResource.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.CoreCompileInputs.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.RichTextBoxCtrl.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csprojAssemblyReference.cache
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.FindDialog.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.GenerateResource.cache
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.CoreCompileInputs.cache
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+E:\CS_20181130_FTP추가\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\bin\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.FindDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.frm_GOTO.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ReplaceDialog.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.richTextBoxTableDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\System.Windows.Forms.ViewRtfSoruceDlg.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\RichTextBoxCtrl.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\ExtentRichTextBoxCtrl\obj\Debug\Microsoft.Net3.5.RichTextBoxCtrl.pdb

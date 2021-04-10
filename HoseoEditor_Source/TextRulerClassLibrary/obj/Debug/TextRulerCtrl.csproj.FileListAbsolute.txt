@@ -1,0 +1,44 @@
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csprojAssemblyReference.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerClassLibrary.Properties.Resources.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\System.Windows.Forms.TextRuler.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.GenerateResource.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.CoreCompileInputs.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerClassLibrary.Properties.Resources.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\System.Windows.Forms.TextRuler.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.GenerateResource.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.CoreCompileInputs.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csprojAssemblyReference.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerClassLibrary.Properties.Resources.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\System.Windows.Forms.TextRuler.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.GenerateResource.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.CoreCompileInputs.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csprojAssemblyReference.cache
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\TextRulerClassLibrary.Properties.Resources.resources
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\System.Windows.Forms.TextRuler.resources
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.GenerateResource.cache
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.CoreCompileInputs.cache
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.dll
+E:\CS_20181130_FTP추가\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\bin\Debug\Microsoft.Net3.5.TextRuler.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\TextRulerClassLibrary.Properties.Resources.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\System.Windows.Forms.TextRuler.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\TextRulerCtrl.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\TextRulerClassLibrary\obj\Debug\Microsoft.Net3.5.TextRuler.pdb

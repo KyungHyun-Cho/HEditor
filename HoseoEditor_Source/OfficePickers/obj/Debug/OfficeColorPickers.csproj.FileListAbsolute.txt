@@ -1,0 +1,53 @@
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csprojAssemblyReference.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ComboBoxColorPicker.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.OfficeColorPicker.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.Util.ContextMenuForm.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ToolStripColorPicker.resources
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.GenerateResource.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.CoreCompileInputs.cache
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\Cool\Downloads\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ComboBoxColorPicker.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.OfficeColorPicker.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.Util.ContextMenuForm.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ToolStripColorPicker.resources
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.GenerateResource.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.CoreCompileInputs.cache
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.dll
+D:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csprojAssemblyReference.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ComboBoxColorPicker.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.OfficeColorPicker.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.Util.ContextMenuForm.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ToolStripColorPicker.resources
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.GenerateResource.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\OfficeColorPickers.csproj.CoreCompileInputs.cache
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\C# Editor\CSHARP_RichTextBoxEditor\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\CS_20181130_FTP추가\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\CS_20181130_FTP추가\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ComboBoxColorPicker.resources
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficePickers.ColorPicker.OfficeColorPicker.resources
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficePickers.Util.ContextMenuForm.resources
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ToolStripColorPicker.resources
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficeColorPickers.csproj.GenerateResource.cache
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\OfficeColorPickers.csproj.CoreCompileInputs.cache
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.dll
+E:\CS_20181130_FTP추가\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\bin\Debug\Microsoft.Net3.5.OfficePickers.pdb
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficeColorPickers.csprojAssemblyReference.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ComboBoxColorPicker.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficePickers.ColorPicker.OfficeColorPicker.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficePickers.Util.ContextMenuForm.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficePickers.ColorPicker.ToolStripColorPicker.resources
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficeColorPickers.csproj.GenerateResource.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\OfficeColorPickers.csproj.CoreCompileInputs.cache
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.dll
+C:\Users\jkh96\Desktop\cs\CS_20181203 완성전\OfficePickers\obj\Debug\Microsoft.Net3.5.OfficePickers.pdb
